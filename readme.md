@@ -3,7 +3,8 @@
 **Overview**
 
 Welcome to the IMDB Movie and TV Shows Database Analysis project! This project involves a comprehensive analysis of a sample IMDB database, including movie and TV show information, ratings, and other essential data. The analysis was performed using MySQL Workbench, and it encompasses various aspects such as brainstorming, system setup, business rules, entity-relationship diagram (ERD) creation, data loading, SQL-based queries, data visualization, and findings presentation.
-Project Description
+
+**Project Description**
 
 The primary goal of this project was to analyze the IMDB Movie and TV Shows Database to gain valuable insights and summarize business operations. The project's workflow can be summarized as follows:
 
@@ -25,17 +26,9 @@ The primary goal of this project was to analyze the IMDB Movie and TV Shows Data
 
 **Project Structure**
 
-The project is structured into the following sections:
+The project is structured into the following section:
 
-    Documentation: This directory contains all the project-related documentation, including this README file.
-
-    MySQL_Workbench: This directory holds the MySQL Workbench files used to create the ER diagram and execute SQL queries.
-
-    Data: The "Data" directory contains the sample IMDB Movie and TV Shows Database used for analysis.
-
-    Visualizations: In this directory, you can find the visualizations created from the analysis.
-
-    Presentations: The "Presentations" directory includes any slides or materials used for presenting the findings to stakeholders.
+DIAS - SQL FInal Project.sql: Contains all the code for creation of data tables and data analysis code towards the end
 
 **Getting Started**
 
@@ -45,7 +38,7 @@ To reproduce the results and analyses of this project, follow these steps:
 
     Install MySQL Workbench to view and execute the provided SQL queries.
 
-    Import the database and tables using the provided SQL scripts in the "MySQL_Workbench" directory.
+    Import the database and tables using the provided SQL scripts in the "DIAS - SQL FInal Project.sql" directory.
 
     Execute the SQL queries to generate the analysis report and insights.
 
@@ -61,5 +54,6 @@ Let's continue exploring and analyzing data together!
 
 Best regards,
 
-[Your Name]
-[Your Contact Information]
+Saransh Gandhe  
+
+saranshgandhe@gmail.com
